@@ -3,3 +3,8 @@
 #### A little about my background:
 _I'm a passionate software engineer looking for new ways to utilize code to solve problems faced by everyday people._
 
+##### I have experience in:
+_React.js, Redux, Python, JavaScript, HTML5, CSS3, SQL, Flask, SQLAlchemy, PostgreSQL, Adobe XD, AWS, Heroku, Websockets, Webpack, Docker, Matlab_
+
+##### Check out my portfolio for more info!
+<a href="https://kevv.me/"> kevv.me</a>
