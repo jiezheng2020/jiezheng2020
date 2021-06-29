@@ -8,3 +8,5 @@ _React.js, Redux, Python, JavaScript, HTML5, CSS3, SQL, Flask, SQLAlchemy, Postg
 
 #### Check out my portfolio for more info!
 <a href="https://kevv.me/"> kevv.me</a>
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiezheng2020)](https://github.com/anuraghazra/github-readme-stats)
